@@ -1,0 +1,9 @@
+c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Heeeeeexx.exe
+c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Heeeeeexx.pdb
+c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\obj\x86\Debug\Heeeeeexx.csprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\obj\x86\Debug\Heeeeeexx.exe
+c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\obj\x86\Debug\Heeeeeexx.pdb
+c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\Fonts\Pericles14.xnb
+c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\GlassBall.xnb

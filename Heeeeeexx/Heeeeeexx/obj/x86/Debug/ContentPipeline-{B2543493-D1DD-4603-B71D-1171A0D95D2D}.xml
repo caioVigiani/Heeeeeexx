@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Pericles14.spritefont</Source>
+      <Name>Fonts\Pericles14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\Fonts\Pericles14.xnb</Output>
+      <Time>2016-03-06T08:16:40.7486628-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TitleScreen.jpg</Source>
+      <Name>Textures\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
+      <Time>2020-09-13T16:09:11.1639776-03:00</Time>
+    </Item>
+    <Item>
+      <Source>GlassBall.png</Source>
+      <Name>GlassBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\GlassBall.xnb</Output>
+      <Time>2016-02-26T14:25:35.5636888-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B2543493-D1DD-4603-B71D-1171A0D95D2D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Windows\Documents\Visual Studio 2012\Projects\Heeeeeexx\Heeeeeexx\HeeeeeexxContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Windows\Documents\Visual Studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Windows\Documents\Visual Studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Windows\Documents\Visual Studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-03-14T20:10:56.2782592-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
