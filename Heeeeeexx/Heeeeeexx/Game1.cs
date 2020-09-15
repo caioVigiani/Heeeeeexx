@@ -32,7 +32,6 @@ namespace Heeeeeexx
                 int Movimentos;
                 Vector2 MovimentoLocation = new Vector2(0, 0);
                 Vector2 MovimentoFinal = new Vector2(600, 375);
-                Vector2 MovimentoColocaçao = new Vector2(600, 400);
                 Vector2 CorLocation = new Vector2(0, 20);
             #endregion
 
@@ -169,7 +168,7 @@ namespace Heeeeeexx
                     ball.Draw(spriteBatch);
 
                 spriteBatch.DrawString(pericles14, "Movimentos: " + Movimentos.ToString(), MovimentoLocation, Color.White);
-                spriteBatch.DrawString(pericles14, "Cor Atual: " + balls[10, 6].tint, CorLocation, Color.Red);
+                //spriteBatch.DrawString(pericles14, "Cor Atual: " + balls[10, 6].tint, CorLocation, Color.Red);
             }
 
             // Quando estiver em estado de fim de jogo
@@ -178,17 +177,17 @@ namespace Heeeeeexx
             {
                 spriteBatch.DrawString(pericles14, "Total de Movimentos: " + Movimentos.ToString(), MovimentoFinal, Color.Yellow);
 
-                if (Movimentos > 1 && Movimentos <= 10)
-                    spriteBatch.DrawString(pericles14, "Sensacional", MovimentoColocaçao, Color.Red);
+                if (Movimentos >= 1 && Movimentos <= 10)
+                    spriteBatch.DrawString(pericles14, "Hacker", new Vector2(680,410), Color.Red);
 
                 if (Movimentos > 10 && Movimentos <= 20)
-                    spriteBatch.DrawString(pericles14, "Baios ou Benos", MovimentoColocaçao, Color.Green);
+                    spriteBatch.DrawString(pericles14, "TOP", new Vector2(700, 410), Color.Green);
 
                 if (Movimentos > 20 && Movimentos <= 25)
-                    spriteBatch.DrawString(pericles14, "Ruinzinho em", MovimentoColocaçao, Color.Yellow);
+                    spriteBatch.DrawString(pericles14, "Ruinzinho em", new Vector2(660, 410), Color.Yellow);
 
                 if (Movimentos > 25)
-                    spriteBatch.DrawString(pericles14, "Tu é muito ruim", MovimentoColocaçao, Color.Gray);
+                    spriteBatch.DrawString(pericles14, "Patetico", new Vector2(680, 410), Color.Gray);
             }
 
             spriteBatch.End();

@@ -7,7 +7,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\Fonts\Pericles14.xnb</Output>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\Fonts\Pericles14.xnb</Output>
       <Time>2016-03-06T08:16:40.7486628-03:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
       <Time>2020-09-13T16:09:11.1639776-03:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\windows\documents\visual studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\GlassBall.xnb</Output>
+      <Output>C:\Users\Windows\Documents\Visual Studio 2012\Projects\Heeeeeexx\Heeeeeexx\Heeeeeexx\bin\x86\Debug\Content\GlassBall.xnb</Output>
       <Time>2016-02-26T14:25:35.5636888-03:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
